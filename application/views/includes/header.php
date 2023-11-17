@@ -96,11 +96,7 @@
         font-weight:bold;
     }
 
-    .logoUrl{
-        display:inline-block;
-        padding:10px 20px;
-        border:1px solid #000000;
-    }
+    
 
 </style>
 </head>
@@ -117,8 +113,7 @@
                 </div>
                 <div class="col-lg-8 col-sm-8 col-md-6 col-xs-5 col-ts-12" style="text-align:center;">
                     <a class="logoUrl" href="<?php echo $_ENV['BASE_URL'];?>">
-                        <!--<img src="<?php echo $_ENV['BASE_URL'];?>assets/cam-demo-images/cam-tablo-demo-logo.png" alt="img" width="280">-->
-                        DEMO LOGO
+                        <img src="https://place-hold.it/240x60/666666/FFFFFF&text=DEMO-LOGO" alt="img">
                     </a>
                 </div>
                 <div class="col-lg-2 col-sm-12 col-md-3 col-xs-12 col-ts-12">
