@@ -10,12 +10,6 @@
                             <li class="menu-item">
                                 <a href="<?php echo PRODUCT_LIST;?>">Yeni Ürünler</a>
                             </li>
-                            <li class="menu-item">
-                                <a href="<?php echo PRODUCT_LIST;?>">En çok satanlar</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="<?php echo PRODUCT_LIST;?>">İndirimdekiler</a>
-                            </li>
                         </ul>
                     </div>
                 </div>
