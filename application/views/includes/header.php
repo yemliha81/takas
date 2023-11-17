@@ -155,7 +155,7 @@
         <div class="item mobile-logo">
             <div class="logo">
                 <a href="<?php echo $_ENV['BASE_URL'];?>">
-                    <img src="<?php echo $_ENV['BASE_URL'];?>assets/cam-demo-images/cam-tablo-demo-logo.png" alt="img" width="240">
+                <img src="https://place-hold.it/240x60/666666/FFFFFF&text=DEMO-LOGO" alt="img">
                 </a>
             </div>
         </div>
